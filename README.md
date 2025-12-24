@@ -80,7 +80,7 @@ Step 4: Finally, run the application using `npm start`. The application will run
 
 ## Github link
 
-[https://github.com/sivaanand13/photography-spot-finder](https://github.com/sivaanand13/photography-spot-finder)
+[https://github.com/vishnuhq/photography-spot-finder](https://github.com/vishnuhq/photography-spot-finder)
 
 ## Unit testing
 
